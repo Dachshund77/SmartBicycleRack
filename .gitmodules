@@ -1,0 +1,4 @@
+[submodule "BicycleServer"]
+	path = BicycleServer
+	url = https://github.com/Dachshund77/BicycleServer.git
+	branch = master
