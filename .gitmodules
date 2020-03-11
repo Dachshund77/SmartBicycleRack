@@ -6,3 +6,7 @@
 	path = BicycleRPi
 	url = https://github.com/Dachshund77/BicycleRPi.git
 	branch = master
+[submodule "LockApp"]
+	path = LockApp
+	url = https://github.com/MartinIversen8/LockApp.git
+	branch = master
