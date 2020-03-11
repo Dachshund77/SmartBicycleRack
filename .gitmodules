@@ -2,3 +2,7 @@
 	path = BicycleServer
 	url = https://github.com/Dachshund77/BicycleServer.git
 	branch = master
+[submodule "BicycleRPi"]
+	path = BicycleRPi
+	url = https://github.com/Dachshund77/BicycleRPi.git
+	branch = master
